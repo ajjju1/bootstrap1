@@ -1,0 +1,22 @@
+primary dark color :- #6C63FF
+primary light color : #6F80EF
+secondary color : - #639FFF
+
+Nav bar 
+->log left
+->right ->home
+	->About us
+	->our Services
+		->It Solutions
+		->Web Solutions
+	->contact us 
+	->what's up no
+
+
+*********** Home Page ***************************
+slider if any
+our Srevice &&include a logo of the services&&
+	->It SOlutions ->view more
+	->Web Solutins ->view more
+
+
