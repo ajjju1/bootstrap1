@@ -1,0 +1,5 @@
+section.contact_intro{
+    width: 100%;
+    padding-top: 8rem;
+    background: var(--gradient);
+}
