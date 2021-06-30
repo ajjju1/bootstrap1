@@ -247,7 +247,7 @@ footer ul a:hover{
 
 /* &&&&&&&&&&&&&       media use in our webpage       &&&&&&&&&& */
 
-@media  (max-width:1199px){
+@media  (max-width:1050px){
     section.intro-section{
         padding: 7rem 0 0 0;
     }
@@ -272,12 +272,6 @@ footer ul a:hover{
 
     .main-service-sectoion{
         margin-top: 5rem;
-    }
-}
-
-@media (min-width : 992px) {
-    .container{
-        max-width: 720px;
     }
 }
 

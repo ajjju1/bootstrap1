@@ -44,7 +44,16 @@ p.content_description ul li{
 
 
 
-@media (min-width:769px) and (max-width:1199px){
+/* @media (min-width:769px) and (max-width:1199px){
+    .Itsolutions{
+        padding-top: 7rem;
+    }
+
+    .img-fluid{
+        margin-top: 1rem;
+    }
+} */
+@media (max-width:1199px){
     .Itsolutions{
         padding-top: 7rem;
     }
@@ -53,8 +62,6 @@ p.content_description ul li{
         margin-top: 1rem;
     }
 }
-
-
 
 
 @media(max-width:768px) {

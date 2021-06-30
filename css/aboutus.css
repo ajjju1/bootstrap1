@@ -23,7 +23,7 @@ section.about_us{
     }
 }
 
-@media  only screen and (max-width: 768px) {
+@media  (max-width: 768px) {
     div.about_image{
         margin-top: 5rem;
     }
@@ -35,7 +35,7 @@ section.about_us{
 }
 
 
-@media  only screen and (max-width: 576px) {
+@media (max-width: 576px) {
     div.about_image{
         margin-top: 2rem;
     }
